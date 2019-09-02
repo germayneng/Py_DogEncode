@@ -10,4 +10,5 @@ This new project aims to port not only some of these codes over to **python** bu
 
 1) Various categorical encoding which i have used personally over a myriad of kaggle competitions 
 2) Easy parallel of functions 
+3) aws wrapper 
 3) Other misc utility functions i have picked up over time 
